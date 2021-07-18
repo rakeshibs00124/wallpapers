@@ -1,0 +1,163 @@
+.navbar-brand i{color: #fbbc0b;}
+.navbar-light .navbar-brand{font-size: 16px;}
+.navbar-text i{color:#fbbc0b;}
+.bg{background: #07294d;}
+.bgg{background: #fbbc0b;}
+/*nev*/
+.navbar-brand img{height: 60px;}
+.bg-{background: #fbbc0b;}
+.navbar-light .navbar-nav .nav-link{;font-size: 20px;font-weight: 600;}
+.bttt button{padding: 8px 25px;border: none;}
+.bttt button:hover{background: #d9a81f;}
+/*Welcome To Oorja*/
+.welcome-text h1{font-weight:600 ;}
+.welcome-text h2{font-weight:600;font-size: 28px;}
+.welcome-text p{font-size: 17px;line-height: 28px;}
+.img-w img{width: 100%;margin-top: 30px;}
+/*Our Services*/
+.Our{background: #f7f9fb;padding: 50px;}
+.Our h1{font-weight:600;text-align: center;padding-top: 70px;}
+.card-body button{padding: 7px 35px;}
+.card-text{color: #9999a8;}
+.card-title{font-size: 17px;font-weight: 600;}
+.card{padding: 7px;border: none;}
+.card-body{border: none;}
+.card-title:hover{color: #f5b417;}
+.card{border: none;}
+.bac-img{background: url(../img/backnew.jpg)no-repeat;min-height: 600px;
+margin-top: 80px;}
+.rgb{background-color: rgba(0, 0, 0, 0.5);min-height: 600px}
+.back-text{text-align: center;color: white;padding-top: 100px;}
+.back-text p{width: 700px;margin: auto;padding-top: 30px;}
+.back-text h2{font-size: 41px;font-weight: 600;}
+.back-text button{padding: 12px 35px;margin-top: 30px;}
+.card-img-top1{margin: auto;display: block;padding-top: 20px;}
+.card1{background: white;}
+.card-title1{text-align: center;font-size: 27px;font-weight: 600;}\
+.bnt {padding: 7px 40px;}
+.card-img-top2{width: 100%;min-height: 262px;}
+.map-back{background: url(../img/map-bg.png)no-repeat;min-height: 550px;}
+
+.rgb1{background-color: rgba(0, 0, 0, 0.7);min-height: 550px}
+.rgb1 h1{color: white;}
+.box-craousl{background: #fff;width: 99%;}
+.box-craousl p{font-size: 17px;}
+.box-craousl img{height: 350px;}
+.img-craousel img{width: 50px;;border-radius: 100%;border: solid 3px #feb64c;}
+.img-craousel1 p{margin-top: -5px;color: #feb64c;}
+.img-craousel1{padding-left: 20px;}
+.Amazing{background:#f5b417;padding: 30px;margin-top: -50px;}
+.Amazing-text P{font-size: 17PX;}
+.bntn button{background: none;border: solid 2px #000;}
+.bntn button:hover{background: #000;color: #fff;}
+/*footer*/
+.back-color{background: #212121;}
+.comn-div h5{color: white;font-weight: bold;font-size: 14px;}
+.hrr{background-color: #00c9fb;padding: 1px;width: 90px;margin-top: -2px;}
+.hrr1{background-color: #00c9fb;padding: 1px;width: 145px;margin-top: -2px;}
+.hrr2{background-color: #00c9fb;padding: 1px;width: 60px;margin-top: -2px;}
+.iml-footer p{color: #666b6f;font-size: 13px;padding-top: 20px;}
+.link{color: #fff;}
+.link li {list-style: none;}
+.link li a{text-decoration: none;color: #767f86;font-size: 13px;
+}
+.link li a i{color: #3aace3;}
+.back-color{padding-top: 70px;padding-bottom: 50px;}
+.link {font-size: 16px;color: #767f86;}
+.link-hr{color: red;margin-top: 6px;color: #767f86}
+.link i{color: #3aace3;;}
+
+
+.carousel-item img{height: 600px;}
+
+
+
+
+
+.fb-in-ican i{background:#3b5998;padding: 10px;border-radius: 100%;
+width: 33px;height: 33px;}
+.ican-grp i{margin-left: 8px;color: #fff;}
+.fb-in-ican2 i{background:#de4e43;padding: 10px;border-radius: 100%;
+width: 33px;height: 33px;}
+.fb-in-ican3 i{background:#007bb6;padding: 10px;border-radius: 100%;
+width: 33px;height: 33px;}
+.fb-in-ican4 i{background:#8a5a4e;padding: 10px;border-radius: 100%;
+width: 33px;height: 33px;}
+.fb-in-ican5 i{background:#1ea1f3;padding: 10px;border-radius: 100%;
+width: 33px;height: 33px;}
+.time span{color:#fbb100;}
+.last-back{background: #07294d;}
+.teext p{color: #9c9692;}
+/*about*/
+.sub-about img{width: 100%;min-height: 270px;}
+.about-back-img{background: url(../img/backnew3.jpg)no-repeat;
+	min-height: 700px;position: relative;}
+.rgbab{background-color: rgba(0, 0, 0, 0.5);min-height: 700px}
+.us{color: #fff;padding-top: 50px;}
+.us h2{font-weight: 600;font-size: 43px;}
+.us p{font-size: 19px;}
+.bout-img img{width: 100%;}
+.bout-text h1{color: #;font-weight: 600;padding-top: 30px;}
+.bout-text h5{font-weight: 600}
+
+/*about*/
+.sub-about{width: 100%;background: ;;
+	box-shadow: 0px 0px 9px 0px rgba(255,255,255,0.75);}
+
+.sub-about span{font-size: 16px;font-weight: bold;color: #fff}
+ .sub-about h1{font-weight: bold;padding-top: 35px;font-size: 55px;color: #fff;}
+
+.rgb-img{background: url(../img/lib.jpg)no-repeat;
+	min-height: 300px;position: relative;}
+.rgb-img-about{background-color: rgba(0, 0, 0, 0.6);min-height: 300px;
+padding: 10px;}
+/*Courses*/
+.Courses-back-img{background: url(../img/lib.jpg)no-repeat;
+	min-height: 200px;position: relative;}
+
+.rgbab-Courses{background-color: rgba(0, 0, 0, 0.6);min-height: 200px;
+padding: 10px;}
+/*Courses-section*/
+.A-N-M-Nursing-img img{width: 100%;}
+.GNM-nursing-img img{width: 100%;}
+.BSC-nursing-img img{width: 100%;}
+.course-hr{width: 50px;}
+.lin-spc p{line-height: 27px;} 
+/*galeary*/
+.card-img-topgleary{width: 100%;height: 250px;}
+.card-img-topgleary:hover {
+  transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+.overflow{overflow: hidden}
+
+.sub-bacl-color{background-color: #f1f3f5;margin-top: 6px;padding: 50px;}
+.sub-bacl-color h1{text-align: center;padding-top: 50px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
